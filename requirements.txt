@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+sentencepiece
+einops
+auto-gptq
+raganything
+lightrag
+sentence-transformers
+pdfminer.six
+opencv-python
+pillow
+numpy
